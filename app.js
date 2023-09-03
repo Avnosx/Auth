@@ -54,9 +54,6 @@ app.post("/login",async(req,res)=>{
 
 
 
-
-
-
 app.listen('3000',async(req,res)=>{
     console.log("Server hosted on port 3000");
 })
